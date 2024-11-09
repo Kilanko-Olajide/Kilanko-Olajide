@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kilanko-Olajide
-- 👀 I’m interested in the cybersecurity and blockchain worlds
+- Currently an intermediate level python developer.
+- 👀 I am also interested in the cybersecurity and blockchain worlds.
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on projects
 
