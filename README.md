@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kilanko-Olajide
 - Currently an intermediate level python developer.
 - 👀 I am also interested in the cybersecurity and blockchain worlds.
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning blockchain, solidity and smart contracts at cyfrin updraft!!
+- 💞️ I’m looking to collaborate on projects too
 
 
 <!---
